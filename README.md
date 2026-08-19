@@ -11,3 +11,4 @@ Guías prácticas sobre extranjería, residencia, visados y trámites para extra
 - [Cita para el certificado de concordancia NIE-DNI](cita-certificado-concordancia-nie-dni.md)
 - [Estancia por estudios para cursar el CAP en España](estancia-estudios-cursar-cap-espana.md)
 - [Jura de nacionalidad española: documentos, plazos y qué hacer después](jura-nacionalidad-espanola-documentos-plazos.md)
+- [Alta en Seguridad Social tras resolución favorable de extranjería](alta-seguridad-social-resolucion-favorable.md)
